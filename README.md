@@ -15,6 +15,17 @@ This project is a one-page website and serves as a professional website for Deep
 ## Acknowledgments
 - [getbootstrap.com](https://getbootstrap.com/)
 
+## Features
+- Functioning Nav bar
+  - Internal Links
+- Dynamic Carousel
+- Google doc
+  - Takes work orders
+  - Make appointments
+- Google map
+- Footer
+  - External links
+
 ## Demo
 
 ### "Home" Section
