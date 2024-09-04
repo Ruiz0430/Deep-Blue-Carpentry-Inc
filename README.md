@@ -1,11 +1,21 @@
 # Deep-Blue-Carpentry-Inc
 
-## About
+## Description
 
 Deep Blue Carpentry Inc. is a small carpentry business located in Venice, Florida. Deep Blue is run by one person and specializes in all things carpentry, especially
 custom jobs.
 
 This project is a one-page website and serves as a professional website for Deep Blue to be able to conduct business.
+
+## Author
+- Daniel Ruiz
+  - Ruiz0430
+  - Danruiz40@gmail.com
+ 
+## Acknowledgments
+- [getbootstrap.com](https://getbootstrap.com/)
+
+## Demo
 
 ### "Home" Section
 
