@@ -1,5 +1,17 @@
 # Deep-Blue-Carpentry-Inc
 
+## Table of Contents
+- Description
+- Author
+- Acknowledgments
+- Features
+- Demo
+  - "Home" Section
+  - "Services" Section
+  - "About" Section
+  - "Contact Us" Section
+  - "Location" Section
+
 ## Description
 
 Deep Blue Carpentry Inc. is a small carpentry business located in Venice, Florida. Deep Blue is run by one person and specializes in all things carpentry, especially
@@ -39,14 +51,14 @@ This project is a one-page website and serves as a professional website for Deep
 
 ### "About" Section
 
-<img width="1470" alt="section 3" src="https://github.com/user-attachments/assets/0b739fbf-08fd-4736-8867-b067ee84f252">
+<img width="1470" alt="section 3" src="https://github.com/user-attachments/assets/c3a59c3b-efdc-482c-9798-6478fdd5c389">
 
 ### "Contact Us" Section
 
-<img width="1470" alt="section 4" src="https://github.com/user-attachments/assets/3a3a9198-df2f-4a20-b435-4957b6677a13">
+<img width="1470" alt="section 4" src="https://github.com/user-attachments/assets/4efe88f6-1a98-41a8-9907-b67dbeaba394">
 
 ### "Location" Section
 
-<img width="1470" alt="section 5" src="https://github.com/user-attachments/assets/e93a914c-30a0-4048-84ff-99985a04fccd">
+<img width="1469" alt="section 5" src="https://github.com/user-attachments/assets/b330bf2d-2ec5-4829-9935-cd94af481164">
 
 
