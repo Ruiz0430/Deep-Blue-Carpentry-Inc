@@ -12,7 +12,7 @@ custom jobs.
 
 
 ## Demo
-https://github.com/user-attachments/assets/9cfbce55-8756-443b-b67c-108eb8478d17
+<video loop src="https://github.com/user-attachments/assets/9cfbce55-8756-443b-b67c-108eb8478d17">
 
 
 
