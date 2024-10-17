@@ -12,6 +12,8 @@ custom jobs.
 
 
 ## Demo
-[Screen Recording 2024-10-16 at 8.02.05 PM.zip](https://github.com/user-attachments/files/17404254/Screen.Recording.2024-10-16.at.8.02.05.PM.zip)
+https://github.com/user-attachments/assets/9cfbce55-8756-443b-b67c-108eb8478d17
+
+
 
 
