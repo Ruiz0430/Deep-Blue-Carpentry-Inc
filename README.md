@@ -9,10 +9,14 @@ custom jobs.
  
 ## Acknowledgments
 - [getbootstrap.com](https://getbootstrap.com/)
+- [w3schools.com](https://www.w3schools.com/)
+
+### Owner of Business
+- Felipe Ruiz
 
 
 ## Demo
-<video loop src="https://github.com/user-attachments/assets/9cfbce55-8756-443b-b67c-108eb8478d17">
+<video loop src="https://github.com/user-attachments/assets/9cfbce55-8756-443b-b67c-108eb8478d17"> Demo </video>
 
 
 
